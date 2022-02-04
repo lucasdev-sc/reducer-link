@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Criando um website para reduzir links utilizando ReactJS, Styled-components, axios e Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Site feito inspirado na Semana ReactJS
 
 ## Available Scripts
 
